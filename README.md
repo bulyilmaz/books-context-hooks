@@ -1,7 +1,5 @@
 cd /path/to/...
 
-npm install
+yarn install
 
-npm run build
-
-npm run dev-server
+yarn dev-server
