@@ -1,0 +1,25 @@
+.app {
+  width: 400px;
+  margin: 0 auto;
+}
+
+nav ul {
+  padding: 0;
+}
+nav ul li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.bookList {
+  padding: 10px;
+}
+.bookList ul {
+  padding: 0;
+  list-style-position: inside;
+}
+.bookList ul li {
+  padding: 10px 0;
+}
+
+/*# sourceMappingURL=bundle.css.map */

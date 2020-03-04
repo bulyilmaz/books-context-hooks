@@ -1,0 +1,23 @@
+.app {
+  width: 400px;
+  margin: 0 auto;
+}
+nav {
+  ul {
+    padding: 0;
+    li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+  }
+}
+.bookList {
+  padding: 10px;
+  ul {
+    padding: 0;
+    list-style-position: inside;
+    li {
+      padding: 10px 0;
+    }
+  }
+}
